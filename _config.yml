@@ -1,6 +1,6 @@
 # main text of home
 name: Barbara Fux
-bio: Agile Project Manager during the day, wannabe developer in the evening.
+bio: Agile Program Manager during the day, wannabe developer in the evening.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: fux.barbara@gmail.com
 authors:
     johndoe:
         name: Barbara Fux
-        bio: Project Manager during the day, wannabe developer in the evening.
+        bio: Agile Program Manager during the day, wannabe developer in the evening.
         external-image: false
         picture: assets/images/profile.png
         twitter: barabrafux
